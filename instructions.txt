@@ -1,0 +1,36 @@
+You do need to change the links for your local images. Your local images must be at the same level of your project file and turn in only your project file and images in a single directory. 
+
+
+
+Please follow the template exactly and load the file and supporting files in a zip file (please make sure it is zip and not another form of compression. 
+Also, include a text file SingleLine.txt with a short single line description (no more than 25 words) of your project for the projects page.
+
+
+
+Change the title from "2016-2017 Senior Project - Project Title" so that Project title is replaced with your team's project name.
+
+
+
+Replace the Drexel Dragon logo with your logo that you've created to represent your project. 
+Note, your links should be local and not have a path at ll. The logo should be a 250x250 pixels (ideally make your logo square or circular as opposed to rectangular) and in a png format. 
+If your background is meant to be clear (and you have it white), please make it transparent. 
+
+
+
+Carefully remove the unneeeded place holders for additional team members. 
+Also, include a 500 x 500 pixel file in the zip you turn in, but this does not need to be linked to the page.
+
+
+
+Please replace each Drexel Dragon logo with a 250 x 250 pixel head shot image of each team member.
+Note, you links should be local and not have a path in it. 
+If a team member does not wish to have their photo displayed, please leave the Drexel Logo in it's place. 
+Please name each file LastNameFirstName.jpg. 
+Then change the name of the person and provide a link to their preferred email and if they have a website, their website. 
+Make sure you change the links so they work as well as display properly.
+
+
+
+Also, please revise your abstracts. Abstracts should be no more than 150 words. 
+Your abstract should highlight the problem you are solving and your solution. 
+State the abstract in the active voice, not future. Also try not to say things in the first person, i.e. My/Our project does this.
