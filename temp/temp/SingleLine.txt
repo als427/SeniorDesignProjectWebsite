@@ -1,3 +1,1 @@
-Also, include a text file SingleLine.txt with a short single line description (no more than 25 words) of your project for the projects page.
-
-(put that ^ and only that in here)
+iPear is a mobile application that provides emergency dispatchers with more accurate location data for mobile 9-1-1 calls and information relevant in emergency situations.
